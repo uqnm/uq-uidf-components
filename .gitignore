@@ -1,4 +1,7 @@
 node_modules
 .DS_Store
 lerna-debug.log
+lerna.json
+packages/core/package-lock.json
+packages/storybook-html/package-lock.json
 .dump
