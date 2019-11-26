@@ -1,6 +1,6 @@
 {
     "name": "@uq-uidf/all",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "package to import all components (including core)",
     "keywords": [
         "uq-uidf",
@@ -42,11 +42,11 @@
         "url": "https://github.com/uqmchu/uq-uidf-components/issues"
     },
     "dependencies": {
-        "@uq-uidf/accordion": "^0.1.0",
-        "@uq-uidf/body": "^0.1.0",
-        "@uq-uidf/button": "^0.1.0",
-        "@uq-uidf/core": "^0.1.0",
-        "@uq-uidf/form": "^0.1.0"
+        "@uq-uidf/accordion": "^0.1.1",
+        "@uq-uidf/body": "^0.1.1",
+        "@uq-uidf/button": "^0.1.1",
+        "@uq-uidf/core": "^0.1.1",
+        "@uq-uidf/form": "^0.1.1"
     },
     "gitHead": "6b44dbc9f2d9142ae8db02151266200de1adfb72"
 }
