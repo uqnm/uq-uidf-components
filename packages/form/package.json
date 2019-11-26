@@ -1,6 +1,6 @@
 {
   "name": "@uq-uidf/form",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The form component package",
   "keywords": [
     "uq-uidf",
@@ -41,7 +41,7 @@
     "url": "https://github.com/uqmchu/uq-uidf-components/issues"
   },
   "devDependencies": {
-    "@uq-uidf/core": "^0.0.0"
+    "@uq-uidf/core": "^0.1.0"
   },
   "peerDependencies": {
     "@uq-uidf/core": "^0.0.0"
