@@ -45,5 +45,6 @@
   },
   "peerDependencies": {
     "@uq-uidf/core": "^0.0.0"
-  }
+  },
+  "gitHead": "6b44dbc9f2d9142ae8db02151266200de1adfb72"
 }
